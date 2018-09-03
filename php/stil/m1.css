@@ -1,0 +1,109 @@
+header {
+     margin:0;
+	 color:black;
+	 padding:40px;
+    font-size: 25px;
+}
+
+body {
+	font-family:Arial;
+	font-size:15px;
+	line-height:2;
+	font: 15px;
+	padding:0;
+	margin:0;
+	background-color:#fff7cc;
+	
+	
+}
+
+#sadrzaj {
+    float: left;
+    width: 70%;
+	background-color:#fff7cc;
+	
+}
+
+
+nav {
+    background-color: #331a00;
+    color: white;
+    float: left;
+    margin: 5px;
+    padding: 3px;
+    width: 25%;
+    font-weight: bold;
+}
+
+nav>ul{
+    list-style: none;
+    padding: 5px;
+    display: block;
+}
+
+li {
+    list-style: none;
+    padding: 5px;
+    display: block;
+}
+
+a:visited, a{
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+form {
+    position: relative;
+    padding: 5px;
+    width: 60%;
+    margin: auto;
+  
+}
+
+table{
+    min-width:45%;
+    float:left;
+    }
+    
+th{
+    background-color: brown;
+    color: white;
+    font-size: 15px;
+    padding: 5px;
+}
+
+td{
+    background-color: grey;
+    color: black;
+    font-size: 15px;
+    padding: 5px;
+}
+
+label{
+    font-size: 15px;
+    width: 40%;
+    height: 15px;
+    clear: both;
+    float: left;
+    margin-bottom: 3px;
+}
+
+
+input, select{
+    font-size: 12px;
+    width: 45%;
+    height: 20px;
+    border: 2px solid;
+    background-color: white;
+    color: black;
+    float: left;
+}
+
+
